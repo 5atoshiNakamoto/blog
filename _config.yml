@@ -1,6 +1,13 @@
 title: @5atoshiNakamoto's blog
+tagline: short and sweet
 description: A blog
 theme: just-the-docs
+author:
+    twitter: 5atoshiNakamoto
+    url: https://5atoshiNakamoto.github.io
+twitter:
+  username: 5atoshiNakamoto
+  card: summary
 
 url: https://5atoshiNakamoto.github.io/blog
 
