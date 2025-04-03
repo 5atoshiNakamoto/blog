@@ -6,3 +6,6 @@ url: https://5atoshiNakamoto.github.io/blog
 
 aux_links:
   Template Repository: https://github.com/5atoshiNakamoto/blog
+
+plugins:
+  - jekyll-seo-tag
